@@ -2,6 +2,8 @@
 
 ## Solution
 
+See file [champagne.R](https://github.com/ptds2023/hw4_solution/blob/dcb9e8e0b8e808264713c3a35cbf7cd4689f065e/champagne.R)
+
 ```r
 # Part I: Modeling
 
