@@ -2,7 +2,7 @@
 
 ## Solution
 
-See file [champagne.R](https://github.com/ptds2023/hw4_solution/blob/dcb9e8e0b8e808264713c3a35cbf7cd4689f065e/champagne.R)
+See solution file [champagne.R](https://github.com/ptds2023/hw4_solution/blob/dcb9e8e0b8e808264713c3a35cbf7cd4689f065e/champagne.R) and the [champagneptds2023 package](https://github.com/ptds2023/champagneptds2023).
 
 ```r
 # Part I: Modeling
